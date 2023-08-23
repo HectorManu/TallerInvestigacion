@@ -10,3 +10,10 @@ Estas son las notas del curso de Aprendizaje Automático del Instituto Técnolog
    
 5. Comunicación del protocolo: **60% es tener el 100% hasta el marco teórico y el 40% defensa del proyecto**
    Pondremos a evaluación con expertos nuestro protocolo 
+
+
+Como primera actividad se nos asignará un tema para exponer la siguiente clase el cual constará de un tiempo de 20 minutos y nos darán retroalimentación entre compañeros a mi me toco:
+
+**Técnicas de instrumentos para la recolección de datos: la observación, entrevista y cuestinario.** 
+   Definición características ventajas y desventajas.
+   Organizarse con los temas de los últimos para no hablar de lo mismo del compañero.
