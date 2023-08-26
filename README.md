@@ -17,3 +17,8 @@ Como primera actividad se nos asignará un tema para exponer la siguiente clase 
 **Técnicas de instrumentos para la recolección de datos: la observación, entrevista y cuestinario.** 
    Definición características ventajas y desventajas.
    Organizarse con los temas de los últimos para no hablar de lo mismo del compañero.
+
+
+# 25/08/2023
+
+Hay que consultar la normatividad 
