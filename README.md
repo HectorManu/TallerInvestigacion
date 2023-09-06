@@ -22,3 +22,25 @@ Como primera actividad se nos asignará un tema para exponer la siguiente clase 
 # 25/08/2023
 
 Hay que consultar la normatividad 
+
+
+# 5/09/2023
+
+1. Haga una lista de tema sobre los cuales le interesaría profundizar o investigar en su campo o profesión
+- Machine Learning
+- Deep Learning
+- Case-Based Reasoning
+- Data Science
+
+2. Con base en la lista de temas del punto 3, referencie los libros, capítulos, artículos, conferencias que ha leído sobre tema.
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+- [Estadísticas análisis de datos y más](https://datanalytics.com/)
+- [Cursos de Kaggle](https://www.kaggle.com/learn)
+- [A Pre-Generation of Emergency Reference Plan
+- [Model of Public Health Emergencies with CaseBased Reasoning](https://www.tandfonline.com/doi/pdf/10.2147/RMHP.S385967)
+- 
+
+4. Con base en la lista de temas del punto 3, explique la importancia de cada tema objeto de investigación
+- Los temas son referentes a Inteligencia Artificial los cuales corresponden a sus distintas áreas siendo las siguiente mencionadas en el punto 3:
+   - **Machine Learning**: En él recaen distintos algoritmos de IA, pero todo depende de la fuente de datos a analizar por ejemplo:
+ 
